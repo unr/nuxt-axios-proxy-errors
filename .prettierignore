@@ -1,0 +1,7 @@
+package.json
+package-lock.json
+vue/**/router.js
+vue/**/app.html
+vue/**/nuxt.config.js
+error.html
+app.html
